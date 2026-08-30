@@ -23,3 +23,28 @@ the threee spreads
 
 # what your paid -what they kept =what informed flow took part 
 the spread it aint for the market makers only 
+
+#### Your question should become:
+
+Why did price move? 
+
+ ### That leads to  concepts such as: 
+  
+  - Market impact 
+  - Liquidity consumption 
+  -order flow  imbalance 
+  - Depth 
+  - Liquidity gaps 
+  - Trade intenisty 
+  - Volume 
+  - Price discovery 
+   - Adverse  selection 
+  - queue position
+
+
+#### next steps to do 
+Study:Order Flow
+    Volume
+Liquidity
+Trade direction
+volatility 
