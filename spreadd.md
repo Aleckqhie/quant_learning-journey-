@@ -48,3 +48,5 @@ Study:Order Flow
 Liquidity
 Trade direction
 volatility 
+
+statistics applications :measures of central tendancy :mean,median,mode , measures of spread :range ,standard deviation,variance 
